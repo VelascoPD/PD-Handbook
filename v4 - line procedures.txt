@@ -59,21 +59,26 @@ The following code words shall be used, when applicable, in local radio transmis
 [b]Emergency Call.[/b]A radio call accompanied by a "Code Three" designation is an emergency call. It shall be answered immediately, but in a manner that will enable the unit to reach the scene as quickly and safely as possible. A specific unit shall be dispatched "Code Three" and ALL additional responding units may also respond "Code Three."
 
 [b]Officer Needs Help.[/b] An emergency call shall be broadcast when an officer requires immediate aid for a life-threatening incident or an incident that requires immediate aid because of serious bodily injury, death, or a serious threat to public safety is imminent. The officer requesting shall include the location, followed if possible, by the unit identification and all other pertinent information. A specific unit shall be dispatched "Code Three" and ALL additional responding units may also respond "Code Three."
+[list]Officer needs help at [location] [reason].[/list]
 
 [b]Back-up Unit Request.[/b] An emergency call shall be broadcast when an officer requires additional units immediately, but the situation does not rise to the level where serious bodily injury, death or serious threat to public safety is imminent.
 Example: Active perimeter, foot pursuit, 415 group, a crime-in-progress, etc.
 All officers who broadcast a "back-up" request shall include their unit designation, followed by their unit location and all other pertinent information, including the reason for the request.
+[list][Unit], requesting backup to [location] [reason].[/list]
 
 [b]Additional Unit Request.[/b] An "Additional Unit" broadcast is when an officer requires an additional unit for a non-emergency situation. The officer requesting shall include the location, followed by the unit identification and all other pertinent information. An "additional unit" request is not an emergency call and responding officers shall obey all traffic laws when responding.
-[b]Examples:[/b] "Code 6 George" with no indication of violence toward the officers, L-Unit
-involved in a traffic stop, follow up for a criminal investigation, etc.
+[b]Examples:[/b] "Code 6 George" with no indication of violence toward the officers, L-Unit involved in a traffic stop, follow up for a criminal investigation, etc.
+[list][Unit], requesting additional units to [location] [reason].[/list]
 
 [b]"Pursuit" Procedure.[/b] A unit announcing a "Pursuit" shall begin the message by stating that the unit is in "Pursuit" and giving the location, followed, if possible, by the unit identification, description of pursued vehicle, and/or suspects, direction taken, and reason for pursuit. The pursuing unit shall give frequent and comprehensive progress reports as conditions permit. Any unit having information regarding the "Pursuit" may
 transmit. Officers engaged in a pursuit should request a back-up unit. Responding back-up units may respond “Code Three.” However, once all authorized units have joined the pursuit, all other units shall discontinue their "Code Three" response.
+[list][Unit], pursuit on a [Color] [Vehicle] [registration plate], occupied times [number], [location].[/list]
 
-[b]Code One[/b]. When the control operator fails to receive an acknowledgment of a communication, a "Code One" shall be given. The unit to which a "Code One" is directed shall acknowledge immediately upon hearing a "Code One."
+[b]Code One[/b]. When the control operator fails to receive an acknowledgment of a communication, a "Code One" shall be given. The unit to which a "Code One" is directed shall acknowledge immediately upon hearing a "Code One." Only supervisors shall use this code. If you are the unresponsive unit, respond immediately. Failing to do so the other units shall start locating the unresponsive unit.
+[list][Unit] to [Unit] code one.[/list]
 
 [b]Code Two[/b]. A radio call accompanied by a "Code Two" designation is an urgent call and shall be answered immediately. The red light and siren shall not be used, and all traffic laws shall be observed. Officers who interrupt their response to a Code Two call due to police work of major importance, delay, or other exigent circumstances shall immediately notify the dispatch. Officers who interrupt their response to a Code Two call for more than a brief delay to evaluate the comparative urgency of an intervening incident shall also request a watch supervisor to reassign the call.
+[list][Unit], switches back code two.[/list]
 
 [b]Code Three.[/b] A radio call accompanied by a "Code Three" designation is an emergency call. It shall be answered immediately, but in a manner which will enable the unit to reach the scene as quickly as possible with safety. An officer may initiate a “Code Three” response to any
 emergency. An emergency exists when one or more of the following elements are present:
@@ -83,12 +88,17 @@ emergency. An emergency exists when one or more of the following elements are pr
 [*]A serious crime in progress; and
 [*]The prevention of a serious crime.[/list]
 Officers responding “Code Three” should notify the dispatch of their “Code Three” response. The notification should be given, if feasible, with consideration to radio congestion or other factors that occur during emergency situations. Should the vehicle operator decide not to initiate a “Code Three” response, he/she shall obey all traffic laws.
+[list][Unit], responding code three.[/list]
 
 [b]Code Four.[/b] When additional assistance is not needed at the scene of an "All Units" call, a "Code Four," followed by the location of the call, shall be broadcast. Radio units which are not assigned to the call and which are not at the scene shall return to their assigned patrol area when a "Code Four" is broadcast. Officers shall use discretion and downgrade their responses based on the arrival of other units at the requesting officer’s location or if a “Code Four” is broadcast.
+[list][Unit], Code Four at [Location] [Reason].[/list]
 
 [b]Code Four Adam[/b]. When additional assistance is not needed at the scene of an "All Units," call but the suspect is still in the vicinity, a "Code Four Adam," followed by the location of the call, shall be broadcast. This should then be followed by a description of the suspect. Radio units which are not assigned to the call but which are on the way to the scene shall, when a "Code Four Adam" is broadcast, patrol or post themselves at
 strategic locations near the scene.
+[list][Unit], Code Four Adam at [Location] [Suspect Description].[/list]
+
 [b]Code Five.[/b] A unit intending to "stakeout" shall notify the control operator of the location and request a "Code Five." The control operator, upon receipt of the message, shall immediately broadcast that there is a "Code Five" at the particular location. All units shall avoid the vicinity except in an emergency or in response to a call. Clearing Code Five. When the need for a "Code Five" no longer exists, the originating unit, or the last unit to leave the scene, shall request the control operator to clear the "Code Five" at the particular location.
+[list][Unit], Code five at [Location] [Additional info].[/list]
 
 [b]Code Six.[/b] When a unit is conducting a field investigation and no assistance is anticipated, a "Code Six,” followed by the location, shall be broadcast. A unit shall not go "Code Six" until it arrives at the scene of a call. Units on "Code Six" status shall remain available for reassignment to priority calls by monitoring their radio frequencies. A unit on "Code Six" status may indicate to the dispatcher additional circumstances which will make the unit unavailable for assignment to a priority call.
 These circumstances may include:
@@ -96,16 +106,24 @@ These circumstances may include:
 [*]Primary unit at a crime scene; and/or,
 [*]Required at a back-up, assistance, or help location.[/list]
 Note: The unit shall notify the dispatcher as soon as it is again available for radio calls.
+[list][Unit], Code Six on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].
+[*][Unit], Code Six at [Location] [Additional info].[/list]
 
 [b]Code Six Adam.[/b] When an officer may need assistance in conducting an investigation, the officer should broadcast "Code Six Adam" with his or her location. Other radio units in the vicinity should then patrol in the general direction of the given location. Officers should not ordinarily leave their assigned districts but should deploy to an advantageous position in the event that assistance is later requested. When a unit broadcasts "Code Six Adam" and later finds that assistance will not be needed, a "Code Four" and the location shall be given without delay.
+[list][Unit], Code Six Adam on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].
+[*][Unit], Code Six Adam at [Location] [Additional info].[/list]
 
-[b]Code Six Charles.[/b] When a one-officer unit receives a "Code Six Charles" in answer to a request for information on a suspect, the officer shall place himself or herself in a position of advantage over the suspect while awaiting arrival of assistance. When control is obtained, the one-officer unit may request and receive the want/warrant information from the Radio Telephone Operator (RTO). When a "Code Six Charles" is
-received by a two-officer unit, the officers shall immediately place themselves in positions of advantage over the suspect. When control is obtained, the unit shall request the want/warrant information from the RTO.
+[b]Code Six Charles.[/b] When a unit transmits a "Code Six Charles", that means the officer encountered a felony suspect and other units shall respond immediately. When a unit broadcasts "Code Six Charles" and later finds that assistance will not be needed, a "Code Four" and the location shall be given without delay.
+[list][Unit], Code Six Charles on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].
+[*][Unit], Code Six Charles at [Location] [Additional info].[/list]
 
 [b]Code Six George.[/b] When an officer may need assistance in conducting an investigation concerning possible gang activity, the officer should broadcast "Code Six George" and the location. An available Gang Enforcement Detail Unit should respond, while other radio units in the vicinity should then patrol in the general direction of the location given. Officers should not ordinarily leave their assigned districts but should deploy to
 an advantageous position in the event that assistance is later requested. When a unit broadcasts "Code Six George" and later finds that assistance will not be needed, a "Code Four" and the location shall be given without delay.
+[list][Unit], Code Six George on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].
+[*][Unit], Code Six George at [Location] [Additional Info].[/list]
 
 [b]Code Seven.[/b] When a unit desires to go out of service for free time, a request for "Code Seven," accompanied by the location his/her assigned vehicle will be parked, shall be transmitted over the radio.
+[list][Unit], Code Seven at [Location].[/list]
 
 [b]Code Thirty-Seven.[/b] When an officer needs running want/warrant information for field personnel shall broadcast a "Code Thirty-Seven"
 when stolen vehicle information is returned on vehicle license numbers. Field personnel shall employ appropriate defensive tactics and/or report pertinent information such as location, direction of travel, vehicle description, until control is assured.

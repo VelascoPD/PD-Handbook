@@ -1,0 +1,55 @@
+[divbox=transparent][centre][b][size=200]VOLUME 0. 
+GENERAL PROVISIONS[/size][/b][/centre]
+[hr][/hr]
+[b][u]010. ORGANIZATION OF THE DEPARTMENT MANUAL.
+[/u][/b]The Department Manual is composed of six volumes which are hereby established and whose contents may be briefly described as follows:
+
+[b]Volume 0, “General Provisions.”[/b] This Volume defines commonly used Department terms
+and the classification, issuance, and maintenance of Department Directives.
+
+[b]Volume I, "Policy."[/b] This Volume is composed of general statements concerning the objectives and principles set forth by the Board of Police Commissioners and the Chief of Police to guide Department activities.
+
+[b]Volume II, "Organization and Functions."[/b] This Volume outlines the organizational structure of the Department. It defines the responsibilities and functions of every office and of the bureaus, groups, areas, divisions, and sections.
+
+[b]Volume III, "Management Rules and Procedures."[/b] This Volume contains the elements of existing rules and procedures necessary to the administrative and managerial functions of the Department.
+
+[b]Volume IV, "Line Procedures."[/b] This Volume contains those detailed rules and procedures to aid Department employees in the execution of line duties performed in the direct furtherance of police objectives.
+
+[b][u]020. NUMBERING SYSTEM USED IN THE DEPARTMENT MANUAL. [/u][/b]
+A modified decimal system is used to number each volume, chapter, section, and subsection of the Department Manual in order to provide quick reference to all material, to afford an easy means of citing specific subjects, and to maintain the flexibility of format necessary to facilitate expansion and revision of its contents.
+A typical reference under the decimal system used in the Department Manual would be "2/360.56." The number (2) preceding the diagonal line (solidus) indicates that the material is contained in the second volume of the Manual. The "360.56" conveys several facts:
+[list]First, that the material is in Chapter 3 (2/360.56).
+[*]Next, that it is in Section 60 of Chapter 3 (2/360.56).
+[*]Finally, that it is located in the paragraph designated as .56 (2/360.56).
+[*]This reference is read as "two, three-sixty, point fifty-six."
+[/list]
+[u][b]030. GRAMMATICAL CONSTRUCTION, THE DEPARTMENT MANUAL. [/u][/b]
+The following rules of grammar shall apply throughout the Department Manual:
+[list]Construction of Tenses. The present tense includes the past and future tenses; and the future and the present tense.
+[*]Construction of Genders. The masculine gender includes the feminine and neuter genders.
+[*]Construction of Singular and Plural. The singular number includes the plural; and the plural, the singular.
+[*]Mandatory and Permissive Verbs. "Shall" is mandatory, and "may" is permissive.[/list]
+
+[b][u]040. DEFINITIONS OF TERMS USED IN THE DEPARTMENT MANUAL.[/u][/b] 
+The following words and terms have the meanings herein assigned, unless it is apparent from the content that they have a different meaning:
+[list][b]Adult[/b]. "Adult" means any person eighteen years of age or older.
+[*][b]Call[/b]. "Call" means a visit made by an employee in response to a station assignment, a request from a private person, or a Department communication, or in furtherance of an investigation or an assignment.
+[*][b]City[/b]. "City" means the City of Los Santos.
+[*][b]County[/b]. "County" means the County of Los Santos.
+[*][b]Department[/b]. "Department" means the Los Santos Police Department.
+[*][b]Department Property[/b]. "Department Property" means any City-owned property controlled by the Department.
+[*][b]Employee/Personnel[/b]. The terms "Employee" and "Personnel" are used interchangeably and apply to any person employed by the Department. These terms also apply to reserve officers while on-duty.
+[*][b]Juvenile[/b]. "Juvenile" means any person under the age of eighteen years.
+[*][b]Rank[/b]. "Rank" means the civil service title of the classification held by an officer.
+[/list]
+
+[b][u]050. ISSUANCE OF DEPARTMENT DIRECTIVES AND INFORMATIVE PUBLICATIONS. [/u][/b]
+[b]050.10 AUTHORIZATION.[/b] Orders which affect only one office, bureau, group, Area, or division may be issued by, or at the direction of, the concerned commanding officer, or the Chief of Police. Orders affecting more than one bureau shall be issued only at the direction of the Chief of Police.
+[b]050.20 CLASSIFICATION.[/b] Classes of orders and informative publications are defined as follows:
+
+[list][b]Administrative Orders[/b]. Administrative Orders are directives issued only by the Chief of Police. They are issued to establish or implement Department policy and procedure and also to amend the Department Manual. Additionally, they are used as a means of direct communication to staff and command officers.
+[*][b]Bureau Orders.[/b] Bureau Orders are directives which establish the policy or procedures of a
+bureau. They may also announce procedures implementing Special Orders or Memoranda.
+[*][b]Area Orders.[/b] Area Orders are directives which establish the policy or procedures of an Area.
+[*][b]Division Orders. [/b]Division Orders are directives setting forth policy and procedures of a division.[/list]
+[/divbox]

@@ -1,0 +1,306 @@
+[divbox=transparent][centre][size=200]VOLUME 4
+LINE PROCEDURES[/size][/centre]
+[hr][/hr]
+[divbox=black][size=150][centre][color=#FFFFFF]COMMUNICATIONS[/color][/centre][/size][/divbox]
+[b][u]110. RADIO UNIT DESIGNATIONS.[/u]
+110.10 STAFF UNIT DESIGNATIONS.[/b] Staff radio designations are not reflective of staff succession of command. Staff units shall be identified as follows:
+Staff 1 - Chief of Police
+Staff 1G - Commanding Officer, Professional Standards Bureau
+Staff 1I - Commanding Officer, Internal Affairs Group
+Staff 8B - Commanding Officer, Counter Terrorism and Special Operations Bureau
+Staff 8E - Chief of Detectives, Detective Bureau
+
+[b].110.20 NONGEOGRAPHIC DIVISION UNIT DESIGNATIONS. [/b]
+Division commanding officer units will be identified by the word “Commander” followed by the number and/or letter(s) of the respective Area/division. All other personnel will be identified by the number and/or letter(s) of their respective Area/division followed by the numerical designation assigned by the Commanding Officer.
+
+[list]1W - Detective Services Group
+[*]1R - Metropolitan Division
+[*]AIR - Air Support Division[/list]
+
+[b]110.30 GEOGRAPHIC COMMANDING OFFICER UNIT DESIGNATIONS.[/b]
+[list]1 - Central Community Police Station
+[*]4 - Hollenbeck Community Police Station
+[*]1G - Gang Units[/list]
+
+[b]110.40 FIELD UNIT DESIGNATIONS. [/b]
+Unit designations shall be stated by all units at the beginning of each transmission:
+[b]Patrol Unit Designations[/b]. Patrol units shall be identified by the number of the Area with the applicable service letter (Department Manual Section 4/110.50), and a unit number corresponding to one of the numbered reporting districts associated with the command.
+[b]Traffic Unit Designations.[/b] Traffic units shall be identified by the number of the traffic division of assignment with the applicable service letter (Department Manual Section 4/110.50), and unit numbers assigned in consecutive order beginning with the number "1."
+
+[b]Non-geographic Division Unit Designations. [/b]
+Non-geographic division units shall be identified by the number and/or letter of the division (Department Manual Section 4/110.20) and the unit numbers assigned by the concerned commanding officer.
+[b]Watch Commanders. [/b] Watch commanders shall be assigned the unit number "10."
+[b]Air Support Unit Designations. [/b] Regular air flights shall be designated by the word "Air," followed by the corresponding Area number to which the flight is primarily committed (e.g., Air 3 would be assigned to an air flight with primary commitment in Southwest Area). Special air flights will be designated "Air 20" through "Air 100" by the Commanding Officer, Air Support Division.
+[b]Metropolitan Division Units. [/b] Metropolitan Division units shall be identified by the letter "R" and unit numbers assigned in consecutive order beginning with the number "1." 
+[b]Supervisors. [/b] Supervisors, other than those assigned to an Area, shall be assigned a unit number ending in "zero" exclusive of the numbers "10" and "90."
+[b]Watch Supervisor. [/b]Watch supervisory units shall be identified by the number of the respective Area, the letters "A" or "L," and a two digit number ending in "zero." The number "10" shall designate the watch commander.
+[b]Detective Units. [/b] Detective units shall be identified by the number of the Area/division, the letter "W," and the unit's numerical designation. Detective Division supervisory units shall be assigned numbers ending in "zero."
+
+110.50 SERVICE IDENTIFICATION LETTERS. The following letters indicate the type of
+service to which mobile radio units are assigned:
+
+[list]A - Basic Car Unit
+[*]Air - Air Support Division
+[*]E - Traffic Enforcement Division
+[*]G - Gang Unit
+[*]L - One-officer Unit
+[*]M - Traffic Enforcement Motorcycle Unit
+[*]R - Metropolitan Division Unit
+[*]T - Traffic Enforcement Traffic Collision Investigator Unit
+[*]W - Bureau or Area Detective Unit[/list]
+
+[b]110.60 ASSOCIATION OF PUBLIC SAFETY COMMUNICATION OFFICERS(APCO) CODE WORD LIST.[/b] 
+The following code words shall be used, when applicable, in local radio transmissions:
+[centre][img]https://cdn.discordapp.com/attachments/801833987722969181/1056998668886089849/image.png[/img][/centre]
+
+[b][u]120. RADIO TERMINOLOGY, CODES AND CRIME BROADCASTS.[/u][/b]
+[b]120.10 RADIO CODES AND PROCEDURES.[/b] The following codes and phrases shall be used, when applicable, in local radio transmissions:
+
+[b]Emergency Call.[/b]A radio call accompanied by a "Code Three" designation is an emergency call. It shall be answered immediately, but in a manner that will enable the unit to reach the scene as quickly and safely as possible. A specific unit shall be dispatched "Code Three" and ALL additional responding units may also respond "Code Three."
+
+[b]Officer Needs Help.[/b] An emergency call shall be broadcast when an officer requires immediate aid for a life-threatening incident or an incident that requires immediate aid because of serious bodily injury, death, or a serious threat to public safety is imminent. The officer requesting shall include the location, followed if possible, by the unit identification and all other pertinent information. A specific unit shall be dispatched "Code Three" and ALL additional responding units may also respond "Code Three."
+
+[b]Back-up Unit Request.[/b] An emergency call shall be broadcast when an officer requires additional units immediately, but the situation does not rise to the level where serious bodily injury, death or serious threat to public safety is imminent.
+Example: Active perimeter, foot pursuit, 415 group, a crime-in-progress, etc.
+All officers who broadcast a "back-up" request shall include their unit designation, followed by their unit location and all other pertinent information, including the reason for the request.
+
+[b]Additional Unit Request.[/b] An "Additional Unit" broadcast is when an officer requires an additional unit for a non-emergency situation. The officer requesting shall include the location, followed by the unit identification and all other pertinent information. An "additional unit" request is not an emergency call and responding officers shall obey all traffic laws when responding.
+[b]Examples:[/b] "Code 6 George" with no indication of violence toward the officers, L-Unit
+involved in a traffic stop, follow up for a criminal investigation, etc.
+
+[b]"Pursuit" Procedure.[/b] A unit announcing a "Pursuit" shall begin the message by stating that the unit is in "Pursuit" and giving the location, followed, if possible, by the unit identification, description of pursued vehicle, and/or suspects, direction taken, and reason for pursuit. The pursuing unit shall give frequent and comprehensive progress reports as conditions permit. Any unit having information regarding the "Pursuit" may
+transmit. Officers engaged in a pursuit should request a back-up unit. Responding back-up units may respond “Code Three.” However, once all authorized units have joined the pursuit, all other units shall discontinue their "Code Three" response.
+
+[b]Code One[/b]. When the control operator fails to receive an acknowledgment of a communication, a "Code One" shall be given. The unit to which a "Code One" is directed shall acknowledge immediately upon hearing a "Code One."
+
+[b]Code Two[/b]. A radio call accompanied by a "Code Two" designation is an urgent call and shall be answered immediately. The red light and siren shall not be used, and all traffic laws shall be observed. Officers who interrupt their response to a Code Two call due to police work of major importance, delay, or other exigent circumstances shall immediately notify the dispatch. Officers who interrupt their response to a Code Two call for more than a brief delay to evaluate the comparative urgency of an intervening incident shall also request a watch supervisor to reassign the call.
+
+[b]Code Three.[/b] A radio call accompanied by a "Code Three" designation is an emergency call. It shall be answered immediately, but in a manner which will enable the unit to reach the scene as quickly as possible with safety. An officer may initiate a “Code Three” response to any
+emergency. An emergency exists when one or more of the following elements are present:
+[list]A serious public hazard;
+[*]An immediate pursuit;
+[*]The preservation of life;
+[*]A serious crime in progress; and
+[*]The prevention of a serious crime.[/list]
+Officers responding “Code Three” should notify the dispatch of their “Code Three” response. The notification should be given, if feasible, with consideration to radio congestion or other factors that occur during emergency situations. Should the vehicle operator decide not to initiate a “Code Three” response, he/she shall obey all traffic laws.
+
+[b]Code Four.[/b] When additional assistance is not needed at the scene of an "All Units" call, a "Code Four," followed by the location of the call, shall be broadcast. Radio units which are not assigned to the call and which are not at the scene shall return to their assigned patrol area when a "Code Four" is broadcast. Officers shall use discretion and downgrade their responses based on the arrival of other units at the requesting officer’s location or if a “Code Four” is broadcast.
+
+[b]Code Four Adam[/b]. When additional assistance is not needed at the scene of an "All Units," call but the suspect is still in the vicinity, a "Code Four Adam," followed by the location of the call, shall be broadcast. This should then be followed by a description of the suspect. Radio units which are not assigned to the call but which are on the way to the scene shall, when a "Code Four Adam" is broadcast, patrol or post themselves at
+strategic locations near the scene.
+[b]Code Five.[/b] A unit intending to "stakeout" shall notify the control operator of the location and request a "Code Five." The control operator, upon receipt of the message, shall immediately broadcast that there is a "Code Five" at the particular location. All units shall avoid the vicinity except in an emergency or in response to a call. Clearing Code Five. When the need for a "Code Five" no longer exists, the originating unit, or the last unit to leave the scene, shall request the control operator to clear the "Code Five" at the particular location.
+
+[b]Code Six.[/b] When a unit is conducting a field investigation and no assistance is anticipated, a "Code Six,” followed by the location, shall be broadcast. A unit shall not go "Code Six" until it arrives at the scene of a call. Units on "Code Six" status shall remain available for reassignment to priority calls by monitoring their radio frequencies. A unit on "Code Six" status may indicate to the dispatcher additional circumstances which will make the unit unavailable for assignment to a priority call.
+These circumstances may include:
+[list]Suspect in custody;
+[*]Primary unit at a crime scene; and/or,
+[*]Required at a back-up, assistance, or help location.[/list]
+Note: The unit shall notify the dispatcher as soon as it is again available for radio calls.
+
+[b]Code Six Adam.[/b] When an officer may need assistance in conducting an investigation, the officer should broadcast "Code Six Adam" with his or her location. Other radio units in the vicinity should then patrol in the general direction of the given location. Officers should not ordinarily leave their assigned districts but should deploy to an advantageous position in the event that assistance is later requested. When a unit broadcasts "Code Six Adam" and later finds that assistance will not be needed, a "Code Four" and the location shall be given without delay.
+
+[b]Code Six Charles.[/b] When a one-officer unit receives a "Code Six Charles" in answer to a request for information on a suspect, the officer shall place himself or herself in a position of advantage over the suspect while awaiting arrival of assistance. When control is obtained, the one-officer unit may request and receive the want/warrant information from the Radio Telephone Operator (RTO). When a "Code Six Charles" is
+received by a two-officer unit, the officers shall immediately place themselves in positions of advantage over the suspect. When control is obtained, the unit shall request the want/warrant information from the RTO.
+
+[b]Code Six George.[/b] When an officer may need assistance in conducting an investigation concerning possible gang activity, the officer should broadcast "Code Six George" and the location. An available Gang Enforcement Detail Unit should respond, while other radio units in the vicinity should then patrol in the general direction of the location given. Officers should not ordinarily leave their assigned districts but should deploy to
+an advantageous position in the event that assistance is later requested. When a unit broadcasts "Code Six George" and later finds that assistance will not be needed, a "Code Four" and the location shall be given without delay.
+
+[b]Code Seven.[/b] When a unit desires to go out of service for free time, a request for "Code Seven," accompanied by the location his/her assigned vehicle will be parked, shall be transmitted over the radio.
+
+[b]Code Thirty-Seven.[/b] When an officer needs running want/warrant information for field personnel shall broadcast a "Code Thirty-Seven"
+when stolen vehicle information is returned on vehicle license numbers. Field personnel shall employ appropriate defensive tactics and/or report pertinent information such as location, direction of travel, vehicle description, until control is assured.
+[list][Unit], code thirty-seven on [reg. plate of vehicle].[/list]
+
+[b]Code Robert-Rifle.[/b] When an employee needs a Patrol Rifle or the employee shall broadcast the unit designation, location, and “Code Robert-Rifle”.
+[list][Unit], Code Robert-Rifle at [Location].[/list]
+
+[b]Code Robert-Slug.[/b] When an employee needs Slug Ammunition the employee shall broadcast the unit designation, location, and “Code Robert-Slug
+[list][Unit], Code Robert-Slug at [Location].[/list]
+
+[b]End of Watch[/b] When an employee finishes the watch, End of watch shall be broadcasted to notify others the unit is free.
+[list][Unit], end of watch.[/list]
+
+[b]120.20 INITIAL BROADCASTS OF CRIME DESCRIPTION.[/b]
+The first officers to arrive at the scene of a crime shall conduct a brief interview with the victim or witnesses. Information, when applicable, shall be transmitted in the following sequence to the communications operator, without delay:
+• Type of Crime;
+• Occurred ______ Minutes Ago/just occurred;
+• Location;
+• Vehicle Used (or left on foot);
+• Direction Taken;
+• Number, Sex, Descent of Suspects;
+• Outstanding Features;
+• Weapon; and,
+• General Type of Property taken.
+
+[divbox=black][size=150][centre][color=#FFFFFF]FIELD ACTIVITIES[/color][/centre][/size][/divbox]
+
+[b][u]200. INTERROGATION OF SUSPECTS - ADMONITION OF MIRANDA RIGHTS.[/u][/b]
+Generally, Department employees should not conduct a custodial interrogation once a suspect in custody unequivocally invokes either the right to silence or the right to an attorney.
+Note: If the suspect only invokes silence, this does not preclude investigators from seeking a waiver at a later time, as allowed by law.
+When a major crime is involved, an officer shall not read the Miranda admonition to a suspect or question a suspect prior to consulting with the investigating officer (I/O) conducting the criminal investigation. Such cases include, but are not limited to, the following:
+[list]Homicides;
+[*]Crimes against persons resulting in injuries that require hospitalization of the victim;
+[*]Crimes, excluding narcotics, that are the responsibility of a specialized detective division (e.g., bank robbery, arson, child abuse);
+[*]Major narcotics cases that require specialized expertise (e.g., methamphetamine labs);
+[*]Felony wants/warrants, including fugitives; and,
+[*]Any crimes that require extensive follow-up investigations.[/list]
+
+For all other crimes, the arresting officer(s) or other assigned employee(s) should attempt to obtain a statement from an in-custody suspect after providing the Miranda admonition, unless otherwise directed by his or her watch commander or commanding officer.
+
+[b]Miranda admonition[/b]
+[list]You have the right to remain silent;
+[*]Anything you say may be used against you in court;
+[*]You have the right to the presence of an attorney before and during any questioning;
+[*]If you cannot afford an attorney, one will be appointed for you, free of charge, before
+any questioning, if you want; and,
+[*]You must seek legal counsel in person, by telephone, or by video conference prior to
+waiving any of your rights.[/list]
+
+[b]200.10 INVESTIGATION BY FIELD UNITS. [/b]
+Field units assigned to calls or discovering incidents requiring reports are responsible for the preliminary investigation and the preparation of all necessary reports. The preliminary investigation must include, whenever applicable, canvassing the area for additional witnesses. Additionally, the canvassing efforts and results must be documented under the “Canvassing” heading in the narrative of the report. In those instances where concerned investigating officers or specialized units respond to the scene and desire to conduct the preliminary investigation, they will notify the assigned unit that they are taking over at that time and will prepare all necessary reports. The unit thus relieved will then:
+[list]Give the investigative unit all pertinent evidence or information in their possession;
+[*]Assist the investigating officers where necessary or requested;
+[*]Assist in the preparation of the reports when necessary to maintain continuity of evidence, or, when requested by the investigating officers, to assure complete and accurate reporting;
+[*]Return to their prior assignment when no further assistance is required by the
+investigative unit.[/list]
+
+[b][u]201. VEHICLE PURSUIT PROCEDURES.[/u][/b]
+When a unit goes in pursuit, it shall advise over the radio that it is "in pursuit" and give the unit's identification, location, a description of the pursued vehicle and/or suspects, directions taken, and reason for pursuit. The initiating unit is also responsible for requesting air unit and an available uniformed supervisor in close proximity to the pursuit. The pursuing unit shall give frequent and comprehensive progress reports. 
+
+[b]Unmarked Units.[/b]
+Unmarked units without emergency equipment shall not engage in a pursuit. However, officers in unmarked units without emergency equipment may become involved in emergency activities involving a serious crime or a life-endangering situation. In those rare instances, it may be necessary to follow a suspect vehicle while summoning assistance from a black-and-white, four-wheeled unit equipped with external roof-mounted emergency lights. 
+
+[b]Responding back-up units may respond “Code Three.” [/b] 
+Note: When available, any unit in a pursuit should be a two-officer unit. Tactically, two officers (driver and passenger) are better able to evaluate and control activities in a pursuit.
+
+If the unit initiating the pursuit cannot continue as the primary unit, the secondary unit shall become the primary unit. The secondary unit shall advise dispatch that it is the primary unit. Another unit may then enter the pursuit and shall declare it through radio that it is the secondary unit.
+In the event a pursuit is initiated by an officer on a motorcycle or in a hybrid or dual purpose vehicle, the pursuing motor officer or driver of the hybrid or dual purpose vehicle shall relinquish the role as the primary unit when a four-wheeled, black-and-white unit equipped with external roof-mounted emergency lights has joined the pursuit. Absent exigent circumstances, officers on a motorcycle or in a hybrid or dual purpose vehicle shall not become a secondary unit after they become aware of the arrival of a secondary black-and-white, fourwheeled unit equipped with external roof-mounted emergency lights.
+
+[b]Primary Unit’s Responsibilities[/b]. The responsibility of the officers in the primary unit is the apprehension of the suspect without unreasonably endangering themselves or others. The senior officer of the primary unit shall be the Incident Commander and will be responsible for
+maintaining management and control of the pursuit until a supervisor arrives. The senior officer’s responsibilities also include the decision to become involved in a pursuit, whether more than two units should join the pursuit, and whether the pursuit should be terminated.
+
+[b]Secondary Unit’s Responsibility.[/b] The secondary unit shall be responsible for backing up the primary unit.
+
+[b]Supervisor's Responsibilities.[/b] Once a supervisor is assigned to a pursuit, he/she shall respond immediately and upon arrival, declare themselves as Incident Commander via broadcast on the radio. As Incident Commander, he/she shall be responsible for the management and control of the pursuit and post incident management. The Incident Commander shall monitor the pursuit and continuously assess the situation and
+ensure that the pursuit is conducted within Department guidelines. If necessary, the supervisor shall direct specific units out of the pursuit, reassign the primary or secondary units, assign an available air unit, terminate the pursuit, or determine the necessity of employing a VIT. Code Three vehicle operation is authorized for the supervisor, at the supervisor's discretion, to properly monitor and direct the pursuit. 
+
+[b]201.10 LOSS OF PURSUED VEHICLE. [/b]
+When a pursued vehicle is lost, officers in the primary unit shall immediately broadcast the necessary information over the radio. The primary unit shall broadcast supplemental information on the appropriate tactical frequency and coordinate the search as needed. When an air unit is assisting, descriptive and directional information shall be specifically broadcast to the air unit. If it is determined that the location of the pursued vehicle is unknown or the vehicle has been lost, the pursuit shall be discontinued.
+
+[b]201.20 VEHICLE PURSUIT DRIVING TACTICS. [/b]
+During the course of the pursuit, officers shall continuously assess the road conditions and the actions of the suspect. Primary responsibility for pursuit activities shall be restricted to the primary unit, secondary unit, and assigned supervisor. All other units shall remain clear of the pursuit, but shall remain alert to the location and progress of the pursuit. Units remaining clear of the pursuit shall follow the rules
+of the road and shall not drive Code Three. Units other than the primary unit, secondary unit, or assigned supervisor shall not become involved in the pursuit unless requested by officers in the primary unit or directed by a supervisor.
+
+[b]Paralleling.[/b] Units shall not parallel nor pass units engaged in the pursuit and shall follow the
+rules of the road. Paralleling is defined as any law enforcement vehicle positioned alongside a pursued or pursuing vehicle, or along an adjacent street so as to be parallel to the suspect’s or pursuing vehicle’s position. Tactics employed to stop a pursued suspect, such as establishing a physical barricade (roadblock), boxing in, heading off, ramming, or driving alongside the pursued vehicle are strongly discouraged. These tactics are extremely hazardous and should only be considered in those rare instances when warranted to save a life, and then only as a last resort.
+
+[b]Wrong-way Traffic.[/b] 
+Generally, officers shall not pursue a vehicle the wrong way on a freeway, nor shall officers pursue the wrong way on a one-way street. In the event a pursued suspect enters the freeway the wrong way, the following options should be considered:
+Requesting an air unit to assist and coordinate field activities;
+[list]The Estimated Time of Arrival (ETA) of the air unit;
+[*]Maintaining visual contact with the suspect vehicle by driving on the correct side of the freeway;
+[*]Requesting other units to observe the exits available to the suspect vehicle.[/list]
+
+[b]201.30 VEHICLE INTERVENTION TECHNIQUES. [/b]
+Officers shall obtain approval from a supervisor prior to deploying a Vehicle Intervention Technique (VIT), unless exigent circumstances exist that require immediate action and preclude officers from seeking prior supervisor approval. A VIT may be deployed when the officer believes that the continued movement of the vehicle would place persons in imminent danger of great bodily harm or death and/or the risk of harm to persons outweighs any risks created by the application of a VIT. The decision to deploy a VIT shall be based on careful consideration of the situation, while maintaining a significant regard for public and officer safety. Currently, the Department has authorized the following:
+
+[b]A. Tire Deflation Devices.[/b] A Tire Deflation Device (TDD), commonly referred to as a “Spike Strip” is used to impede or stop the movement of vehicles by deflating the tires. The TDD normally should not be deployed for a pursued vehicle traveling at speeds in excess of 65 mph. Absent exigent circumstances, the TDD should generally not be used in adverse terrain or where geographic configurations increase the risk of injury to the suspect (e.g., on roadways bounded by steep descending embankments, curves), or at any location where safety of proceeding or opposing traffic cannot be assured. Absent exigent circumstances where lethal force is authorized, officers shall not use a TDD on two or three wheeled vehicles.
+
+[b]B. Pursuit Intervention Technique.[/b]
+The Pursuit Intervention Technique (PIT) is designed to be executed by a pursuing police vehicle. The PIT is a technique in which the officer’s vehicle
+makes contact with the rear quarter panel of the suspect’s vehicle, causing it to rotate and come to a stop. If the technique is properly executed, damage to the officer’s vehicle should be minor or negligible. The location chosen to implement a PIT is of paramount importance. The
+area should be clear of pedestrians and other occupied vehicles, and road conditions should be in good condition (e.g., free from loose gravel, significant road repair). Unless exigent circumstances exist, the PIT should not be attempted when the following exists:
+[list]The pursued vehicle is traveling in excess of 35 mph;
+[*]The size of the pursued vehicle is significantly heavier than the primary unit's police vehicle (e.g., buses, motor homes, semi-trucks, dual-rear-wheel pickup trucks);
+[*]Vehicles with a higher center of gravity;
+[*]The pursued vehicle is transporting hazardous material;
+[*]Since deploying the PIT will cause officers to be in close proximity to the suspect, a PIT should not be used on a suspect who is known to be armed; and,
+[*]The pursued vehicle is a motorcycle, motor scooter or three-wheeled cycle.[/list]
+
+[b][u]202. SEARCHES OF SUSPECTS AND ARRESTEES.[/u][/b]
+[b]Cursory Searches[/b]. When an immediate cursory search for weapons is necessary, it may be conducted by an officer of either sex.
+
+[b]Searches of Arrestees.[/b]
+When the rules of search and seizure permit, an arrestee shall be thoroughly searched as soon as practicable. Such searches shall be conducted by an employee of the arrestee's sex. However, an immediate search may be conducted in the field by an officer of either sex when necessitated by specific circumstances, such as a reasonable belief that:
+[list]The arrestee is armed with a weapon; or,
+[*]A delay could result in the destruction or loss of evidence.[/list]
+[b]Note:[/b] Personal property shall not be taken from arrestees in the field.
+[b]Exceptions:[/b] Evidence, items which could be used as weapons, and items which could contain weapons shall be taken from the arrestee. If the arrestee is in possession of any contraband items (as defined in this section), the arrestee shall be advised that, upon entry into the booking facility, those items will be discarded. Officers shall advise the arrestee of their ability to either leave the property with a family member or friend, donate the item(s) to anyone of their choice at scene, or throw the item(s) away.
+
+[u][b]203. USE OF HANDCUFFS.[/b][/u]
+The primary purpose in handcuffing an arrestee is to maintain control of the arrestee and to minimize the possibility of escalating the situation to a point that would necessitate more drastic means of restraint.
+Felony arrestees shall normally be handcuffed; however, there may be circumstances which would make the handcuffing of an arrestee inappropriate. Such circumstances can best be perceived by the involved officer. Therefore, any decision to not handcuff an arrestee must be
+based on available facts. Factors involved in making this decision include, but are not limited to:
+[list]The possibility of the arrestee escaping.
+[*]The possibility of the incident escalating.
+[*]Potential threat to officers and other persons.
+[*]Knowledge of the arrestee's previous encounters with law enforcement.[/list]
+
+An officer shall constantly monitor the actions of an unhandcuffed arrestee. If the officer believes it is necessary, he/she may, at any time, handcuff the arrestee.
+
+[b][u]204. TRANSPORTATION OF ARRESTEES.[/u][/b]
+All arrestees transported in any Department vehicle, regardless of age or gender, shall be secured in the rear seat. A three-point safety belt shall be used; however, a two-point safety belt (lap belt) shall be worn when a three-point safety belt is not provided.
+
+[b]Two Officers.[/b] If two officers are transporting an arrestee in a nonpartition-equipped vehicle, one officer shall be seated directly behind the driver of the vehicle. In a partition-equipped vehicle, the passenger officer shall ride in the front seat. Officers must remain in close proximity and visually monitor arrestees.
+
+[b]One Officer.[/b] A single officer in a non-partitioned vehicle may transport a non-belligerent arrestee. The officer must remain in close proximity to visually monitor the arrestee. Should the arrestee become belligerent, the transporting unit should stop the transport and request a unit with a partitioned vehicle to continue to transport the arrestee.
+
+[b][u]205. HIGH - RISK PRONE SEARCH.[/u][/b]
+When the high-risk prone search is used, the officer shall explain the reason for its use to the involved parties. If the officer is unsuccessful in convincing the parties that the search tactic was necessary and appropriate, the officer shall request that a supervisor respond to the scene.
+
+[b][u]206. PRELIMINARY INVESTIGATION[/u][/b]
+The preliminary investigation is the Department's first response to a report that a crime has occurred. As in every investigative effort, the primary objective of the preliminary investigation is to determine who committed the crime and to apprehend the offender. The preliminary investigation collects evidence which supports that a crime has occurred, the identification of the offender, and the arrest and subsequent conviction of the offender. 
+The framework of the preliminary investigation is based on the following major tasks: 
+[list=decimal]verification that an offense has occurred; 
+[*]identification of the victim, the place of the crime, and the time of the crime; 
+[*]identification of solvability factors; 
+[*]communication of the circumstances of the crime; and 
+[*]the identification of those investigative tasks completed and those yet to be done.[/list]
+
+[b]206.10. Steps of a Preliminary Investigation[/b]
+Law enforcement conducts an investigation step by step to ensure accurate information is included in the preliminary report. A thorough and detailed preliminary report is vital to the entire investigation process because it can help to solve a crime. The preliminary investigation steps include the following:
+
+[list]The first step in a preliminary investigation is to assess the crime scene for any injured persons. Responding officers should attend to the injured parties and call for emergency medical help. While waiting for paramedics to arrive on the scene, law enforcement should check vital signs and assess the injuries of each person involved. In certain cases, law enforcement can apply basic first aid while waiting for help to arrive.
+[*]The second step is to observe the scene. During this step, law enforcement will take note of the positioning of the victim, items found at the crime scene, witnesses at the scene, and any unusual activity.
+[*]The third step is to determine if a crime has occurred. If a crime has occurred, law enforcement will begin the enforcement action process, which includes pursuing the offender and making an arrest. If the offender has left the crime scene and cannot be obtained, additional officers will be alerted and informed with a description of the suspect.
+[*]The fourth step is to secure the crime scene to ensure that all evidence is preserved. The crime scene is blocked off using barricades to prevent the public from tampering with any evidence. All evidence is photographed and documented carefully to ensure that it is not contaminated.
+[*]The fifth step is to interview witnesses and gather witness reports. All witnesses of the crime should be interviewed.
+[*]The final step of the preliminary investigation is to organize all of the information gathered into a detailed report. The preliminary report will be used during the post-crime formal investigation.[/list]
+
+[b][u]207. TRAFFIC STOP[/u][/b]
+A traffic stop, commonly referred to as being pulled over, is a temporary detention of a driver of a vehicle by police to investigate a possible crime or minor violation of law. A traffic stop is usually considered to be a Terry stop and, as such, is a seizure by police; the standard set by the United States Supreme Court in Terry v. Ohio regarding temporary detentions requires only reasonable articulable suspicion that a crime has occurred or is about to occur. Traffic stops can be initiated at any time during the detention and arrest process, ranging from stops prior to arrest or issuance of a ticket for violation based on probable cause:
+Traffic stops may be executed upon reasonable articulable suspicion that a crime has occurred, which can range from an observation of a possible equipment violation to suspicion of driving under the influence (DUI) based on driving behavior. In some jurisdictions, general roadblock checkpoints are applied for random checks of driver. A primary purpose of the traffic stop at this point is frequently to determine if the police have probable cause for arrest. At this stage, the police are not required to issue a Miranda warning, because a traffic stop prior to formal arrest is not considered to be custodial under Miranda, and will often ask questions intended to elicit the suspect to provide answers that may be used as evidence in the event of an arrest.
+
+A stop is usually accomplished through a process known as "pulling over" the suspect's vehicle. Police vehicles (except those used by undercover personnel) traditionally have sirens, loudspeakers, and lightbars that rotate or flash. These devices are used by the officer to get the attention of the suspect and to signal that they are expected to move over to the shoulder and stop. Failure to comply could result in citation of failure to yield to an emergency vehicle and possibly raise suspicion that the driver is attempting to flee.
+
+Similar alerting devices are also typically equipped on other emergency vehicles such as fire trucks and ambulances, although police departments often use blue lights to signal drivers to pull over. In all cases, such signals and the laws requiring that other vehicles pull to the shoulder allow the emergency vehicles to pass other traffic safely and efficiently when responding to emergency situations. In the case of a traffic stop, the officer pulls the patrol vehicle behind the subject vehicle as it stops instead of proceeding past as he or she would during other emergency responses.
+
+Depending upon the severity of the offense which the officer believes to have occurred, the officer may either arrest the suspect, by taking him or her to jail, or check for any outstanding warrants before issuing a citation also called a notice to appear or summons in some jurisdictions, which is essentially a traffic ticket. In some cases, officers may choose to simply issue a verbal or written warning.
+
+[b]208. HIGH RISK STOP[/b]
+A "felony" or "high-risk" traffic stop occurs when police stop a vehicle which they have strong reason to believe contains a driver or passenger suspected of having committed a serious crime, especially of a nature that would lead the police to believe the suspects may be armed (such as an armed robbery, assault with a weapon, or an outstanding felony warrant for the registered owner). In a high risk stop, officers attempt to provide their own safety by issuing instructions to maintain absolute control over every step of the proceedings.
+
+They will have additional officers on scene for back-up, often waiting for additional officers to join up before initiating the stop. They will typically have their weapons drawn, and stay back from the suspect's vehicle, using their patrol cars for cover. If there is no choice but to make the stop on a busy street, then they will often stop traffic. They will address the driver and any passengers over the PA speaker of the patrol car, typically instructing the driver to turn the engine off, remove the keys from the ignition, and sometimes toss them out the window. They will instruct the occupants, one at a time, to exit the vehicle with empty hands showing, place their hands on top of or behind their heads, walk backwards some distance, and then lie flat on the ground, where they will remain until all occupants have done likewise, at which point officers will move up, apply handcuffs, do a body search and then secure the suspects in the patrol cars.
+
+[divbox=black][size=150][centre][color=#FFFFFF]OFFICER GUIDELINES[/color][/centre][/size][/divbox]
+[divbox=black][size=150][centre][color=#FFFFFF]CASELAWS[/color][/centre][/size][/divbox]
+[list]Fourth Amendment
+The Constitution, through the Fourth Amendment, protects people from unreasonable searches and seizures by the government.  The Fourth Amendment, however, is not a guarantee against all searches and seizures, but only those that are deemed unreasonable under the law.
+[*]Reasonable Suspicion
+Reasonable suspicion is an objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time. 
+For example, if a driver is driving erratically, swerving between lanes, and failing to stop for traffic signals, a police officer may have reasonable suspicion that the driver is drunk. The officer may pull the driver over, but the officer may not arrest the driver unless there is further evidence of drunk driving to establish probable cause for the arrest. If after being pulled over a driver fails a sobriety test, that may provide probable cause for an officer to make a drunk driving arrest.
+[*]Probable Cause
+Probable cause is a requirement found in the Fourth Amendment that must usually be met before police make an arrest, conduct a search, or receive a warrant. Courts usually find probable cause when there is a reasonable basis for believing that a crime may have been committed (for an arrest) or when evidence of the crime is present in the place to be searched (for a search). Under exigent circumstances, probable cause can also justify a warrantless search or seizure. Persons arrested without a warrant are required to be brought before a competent authority shortly after the arrest for a prompt judicial determination of probable cause.
+[*]Terry v. Ohio 392 U.S. 1
+Terry v. Ohio establishes that police have the right to reasonably search individuals for their own safety.
+[*]Mapp v. Ohio 367 US. 643
+Mapp v. Ohio was a landmark decision of the U.S. Supreme Court in which the Court ruled that the exclusionary rule, which prevents prosecutors from using evidence in court that was obtained by violating the Fourth Amendment to the U.S. Constitution,
+[*]Tennessee v. Garner 471 U.S. 1
+Tennessee v. Garner establishes that police have the right to use deadly force upon an individual who, when fleeing, is reasonably believed will cause further harm to others in the process.
+[*]Miranda v. Arizona 384 U.S. 436
+Miranda v. Arizona establishes that law enforcement officials must inform a suspect of their Fifth Amendment privilege against self-incrimination before any incriminating questioning.
+Upon questioning, an officer must read the following phrase, also known as Miranda Rights.
+[/list]
+[code]You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney. If you cannot afford an attorney, one will be provided for you.[/code]
+
+[/divbox]

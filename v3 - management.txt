@@ -48,10 +48,18 @@ At least one month continuous service as Lieutenant I.
 [/list]
 
 [b][u]140. DISCIPLINARY ACTIONS[/u][/b]
-[list]Verbal Warning
-[*]Official Reprimand
-[*]Suspension
-[*]Downgrade
-[*]Termination
+[list][b]Official Reprimand[/b]
+An Official Reprimand is a formal disciplinary action, taken to correct improper conduct, and is the least severe written disciplinary action that can be taken. Official Reprimands are documented in writing as a matter of record and placed in the officer's file. With official reprimand, an officer is restricted to join certain divisions.
+[*][b]Suspension[/b]
+The temporary removal of a member from duty, without pay. An incident of misconduct or inappropriate behavior may fall into one or more of the following categories:
+[list][b]Crime:[/b] Complaint regarding the commission of an illegal act that constitutes a violation of the criminal code including disorderly and petty disorderly person offenses.
+[*][b]Excessive force: [/b]Complaint regarding the use or threatened use of excessive force against a person.
+[*][b]Improper arrest:[/b] Complaint that the restraint of a person's liberty was improper, unjust, or violated the person's civil rights.
+[*][b]Improper entry:[/b]Complaint that entry into a building or onto the property was improper or that excessive force was used against property to gain entry.
+[*][b]Improper search:[/b]Complaint that the search of a person or property was improper, unjust, violated established agency procedures or violated the person's civil rights.
+[*][b]Differential treatment:[/b] Complaint that the taking of police action, the failure to take police action or method of police action was predicated upon irrelevant factors such as race, appearance, age or sex.
+[*][b]Demeanor:[/b] Complaint that a department member's bearing, gestures, language or other actions were inappropriate.[/list]
+[*][b]Termination[/b]
+Termination is the final disciplinary action. When an officer reaches [b]three[/b] suspensions, they shall be immediately terminated within the Department. 
 [/list]
 [/divbox]

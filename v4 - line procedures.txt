@@ -148,6 +148,47 @@ The first officers to arrive at the scene of a crime shall conduct a brief inter
 • Weapon; and,
 • General Type of Property taken.
 
+[b]120.30. Radio channels & departmental radio[/b]
+The radio supports switching channels, as well as a separate intedepartmental channel which all city departments can use.
+[list][b]Base Channel (R-BASE)[/b]
+The base radio channel is used for normal patrol operations by all division units, it is the default radio frequency of the LSPD.
+[*][b]TAC-1 (L-TAC1) and TAC-2 (L-TAC2) Channels[/b]
+The TAC-1 and TAC-2 channels can be used for specific situations that require a dedicated frequency. All users should switch back to the Base Channel once the situation is over.
+[*][b]SWAT Channel (R-SWAT)[/b]
+The SWAT channel is for usage by members assigned to the Special Weapons and Tactics (SWAT) division, but only when conducting divisional duties that would interfere with the Base Channel.
+[*][b]Departmental Radio (DEP)[/b]
+The departmental radio is used for contacting other city departments such as the Los Santos Fire Department. It should only be used when necessary and by the highest ranking officer on scene.
+Use of codes over the departmental radio is strictly prohibited. During a situation the incident commander is allowed to use the departmental radio. 
+During the use of Departmental radio, the officer shall state "Police" and their badge number, followed by the requested departments abbreviation. 
+EXAMPLE: Police 2195 to FD, requesting an RA unit to Winona Avenue for a white male, multiple GSWs. [/list]
+
+[b]120.40. - Codes Describing Situations/Locations[/b]
+[list][b][ATL][/b] - Attempt To Locate
+[*][b][BOLO][/b] - Be On Lookout (pronounced as Bo-Low)
+[*][b][DOA][/b] - Dead On Arrival
+[*][b][DOT][/b] - Direction Of Travel
+[*][b][EDP][/b] - Emotionally Disturbed Person (psycho)
+[*][b][GOA][/b] - Gone On Arrival
+[*][b][MVA][/b] - Motor Vehicle Accident
+[*][b][IFO][/b] - In Front Of
+[*][b][LSW][/b] - Last Seen Wearing
+[*][b][UTL][/b] - Unable To Locate
+[*][b][GSW][/b] - Gun Shot Wound
+[*][b][REG][/b] - Registration
+[*][b][VCL][/b] - Visual Contact Lost
+[*][b][DL][/b] - Drivers License
+[*][b][KA][/b] - Known Associate
+[*][b][PC][/b] - Probable Cause
+[*][b][PR][/b] - Party Reporting (911 caller, etc.)
+[*][b][RA][/b] - Fire Department Rescue Ambulance
+[*][b][RO][/b] - Registered Owner
+[*][b][VC][/b] - Visual Contact
+[*][b][TC][/b] - Traffic Collision[/list]
+
+[b]120.50. Start of watch, end of watch.[/b]
+During the beginning of a watch, the unit shall broadcast over the radio that it is clear. There is no need for additional information such as who is in the unit or what their badge numbers are. 
+Same applies to the end of watch broadcast. Units are [b]NOT[/b] disbanding, there is no need to elaborate why, when, who finishes their watch or the callsign changes. It is enough to state "end of watch" as it is stated above in the handbook section 120.10. 
+
 [divbox=black][size=150][centre][color=#FFFFFF]FIELD ACTIVITIES[/color][/centre][/size][/divbox]
 
 [b][u]200. INTERROGATION OF SUSPECTS - ADMONITION OF MIRANDA RIGHTS.[/u][/b]

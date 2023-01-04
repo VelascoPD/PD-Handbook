@@ -13,8 +13,8 @@ Staff 8E - Chief of Detectives, Detective Bureau
 [b].110.20 NONGEOGRAPHIC DIVISION UNIT DESIGNATIONS. [/b]
 Division commanding officer units will be identified by the word “Commander” followed by the number and/or letter(s) of the respective Area/division. All other personnel will be identified by the number and/or letter(s) of their respective Area/division followed by the numerical designation assigned by the Commanding Officer.
 
-[list]1W - Detective Services Group
-[*]1R - Metropolitan Division
+[list]W - Detective Services Group
+[*]R - Metropolitan Division
 [*]AIR - Air Support Division[/list]
 
 [b]110.30 GEOGRAPHIC COMMANDING OFFICER UNIT DESIGNATIONS.[/b]
@@ -40,13 +40,11 @@ Non-geographic division units shall be identified by the number and/or letter of
 service to which mobile radio units are assigned:
 
 [list]A - Basic Car Unit
-[*]Air - Air Support Division
-[*]E - Traffic Enforcement Division
+[*]AIR - Air Support Division
 [*]G - Gang Unit
 [*]L - One-officer Unit
 [*]M - Traffic Enforcement Motorcycle Unit
 [*]R - Metropolitan Division Unit
-[*]T - Traffic Enforcement Traffic Collision Investigator Unit
 [*]W - Bureau or Area Detective Unit[/list]
 
 [b]110.60 ASSOCIATION OF PUBLIC SAFETY COMMUNICATION OFFICERS(APCO) CODE WORD LIST.[/b] 
@@ -330,6 +328,37 @@ The vehicle formation in a felony stop usually works like this, all units should
 [spoiler]https://cdn.discordapp.com/attachments/801833987722969181/1059177446408200283/samp_01_01_2023_19_30_14.png[/spoiler]
 
 [divbox=black][size=150][centre][color=#FFFFFF]OFFICER GUIDELINES[/color][/centre][/size][/divbox]
+[b][u]310. OFFICER SAFETY[/u][/b]
+Officer's safety was, and will always be the main priority in the Los Santos Police Department. During the time, the police department has worked hard on ensuring officers' safety during their shift at all times, through equipment and training.
+[b]310.10. Distance[/b]
+One of the most important aspects of officer safety is keeping distance against civilians. Officers must always ensure to keep enough distance between them and other civilians in order to have a chance to react on their movement. Always stay least three or four steps away from others. 
+[b]310.20. Cover[/b]
+During an incident, it is important for the officers to understand, they must ensure to stay close to possible covers. The best cover is always a building or a concrete wall but the police vehicle is also works well if the danger is immediate. 
+[b]310.30. Backup[/b]
+Always have backup ready. During an incident, the officers are always under threat and with other officers these threats can be handled more easily. There is never enough backup on scene so make sure to have as many officers around you as possible.
+[b]310.40. Driving[/b]
+Wear your seatbelt at all times.
+The greatest threat to police officer safety isn’t guns: It’s cars. Data show that vehicle collisions are by far the biggest cause of officer injuries and deaths—and in more than a third of those accidents, the officers weren’t wearing seatbelts.
+[list]Watch your speed.[/list]
+Follow your agency’s guidelines for high-speed pursuits, and always ask first if the chase is really necessary. In the vast majority of situations, slowing down won’t affect the outcome and may save your life. The few seconds saved by driving at breakneck speed aren’t going to have a significant effect on your arrival time. Drive safely.
+[list]Wear your vest.[/list]
+Body armor can save your life and allow you to continue fighting if a suspect tries to take a shot at you. Although the additional layer of clothing can be uncomfortable, especially in hot weather, the additional protection is priceless.
+[list]Apply the WIN (What’s Important Now?) principle.[/list]
+The WIN process will help you set priorities and make effective decisions. Make a habit of thinking through your choices as you go through your shift. When you pull into a parking lot at a convenience store, is your first thought to check that there’s no criminal activity going on inside? When you step out of your car for a traffic stop, do you check oncoming traffic first?
+[list]Avoid complacency.[/list]
+Every career, including law enforcement, involves a certain amount of routine and repetition. It’s all too easy to overlook a simple step that might make the difference in a tense situation. Before every shift, you should check your equipment (weapon, flashlight, glasses, gloves) and make sure that you have batteries and chargers for any electronic devices that need them. Clear your mind of any personal issues that might distract you. The ability to focus on the here-and-now is a major advantage in keeping you safe.
+
+[b]A few handy tips for police officers to ensure safety:[/b]
+Always be alert and aware of the people around you. Be aware of locations and situations which would make you vulnerable to crime, such as alleys and dark parking lots. Have your eyes and reactions ready at all times.
+
+[list]Street precautions:[/list]
+Be alert to your surroundings and the people around you, especially if you are alone or it is dark. Whenever possible, patrol with a colleague.
+Stay in well-lighted areas as much as possible. Walk close to the curb. Avoid doorways, bushes, and alleys where someone could hide.
+Walk confidently, and at a steady pace. Make eye contact with people when walking. NEVER leave your partner alone, you should ALWAYS have your partner's back, and vice-versa. Don't chase multiple suspects shooting directly at you, instead, get behind cover and ask for back-up, follow at a safe pace. If alone, always scan your surroundings and ask for backup if needed, especially when performing traffic stops and especially if you're patroling on the NIGHT time. Always stay behind cover!
+
+[list]Car Safety[/list]
+Park in well-lighted areas. Never head-ram a suspect while in a chase. Always remain on the correct lane of travel unless you're chasing a suspect and you're in the LEAD unit. When performing interceptions, always have YOUR SAFETY is your priority, and others, do it when you're absolutely sure it's safe to do so. Always wear your seatbelt to ensure safety in case of an accident. Slow down or even come to a stop in intersections to avoid a car accident even during a pursuit, to avoid a car crash or being hit by another vehicle, especially if you're NOT lead unit. When performing a traffic stop and you're alone, touch the trunk of the suspect's vehicle to leave a print mark in case things go south, and if they do, rush for cover.
+
 [divbox=black][size=150][centre][color=#FFFFFF]CASELAWS[/color][/centre][/size][/divbox]
 [list][b]Fourth Amendment[/b]
 The Constitution, through the Fourth Amendment, protects people from unreasonable searches and seizures by the government.  The Fourth Amendment, however, is not a guarantee against all searches and seizures, but only those that are deemed unreasonable under the law.

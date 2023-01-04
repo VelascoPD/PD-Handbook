@@ -295,27 +295,56 @@ Similar alerting devices are also typically equipped on other emergency vehicles
 
 Depending upon the severity of the offense which the officer believes to have occurred, the officer may either arrest the suspect, by taking him or her to jail, or check for any outstanding warrants before issuing a citation also called a notice to appear or summons in some jurisdictions, which is essentially a traffic ticket. In some cases, officers may choose to simply issue a verbal or written warning.
 
-[b]208. HIGH RISK STOP[/b]
+[b]Officer Procedure[/b]
+Once you see a vehicle being suspicious or breaking one of the Traffic Laws, slowly turn on your visual sirens and sound sirens as well as the emergency lights (STG 3). If the driver doesn't pull over once you do that, reach for your megaphone and order them to pull over. If the driver complies, pull up behind the stopped vehicle in a way that the police vehicle's front right light is in the same line as the stopped vehicle's left back light.
+EXAMPLE
+[spoiler][img]https://cdn.discordapp.com/attachments/801833987722969181/1059181050686885979/samp_01_01_2023_19_39_13.png[/img][/spoiler]
+After they do that, check the vehicle's registration plate via MDC/MDT. In this case the owner of the vehicle or the vehicle is not wanted, the officer shall inform the dispatch about the traffic stop.
+[code][Unit], Code Six on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].[/code]
+After calling out the traffic stop, officer shall step outside of your vehicle, walk towards the person's vehicle, approach the left window, but keep yourself to the back a little bit where the suspect cannot pull out a gun on the officer, avoiding gun point. Officer safety is the number one rule.
+Officers shall identify themselves as a Police Officer from the Los Santos Police Department while including their rank and last name. Officers shall state  the reason behind pulling them over.
+
+[b][u]208. HIGH RISK STOP[/u][/b]
 A "felony" or "high-risk" traffic stop occurs when police stop a vehicle which they have strong reason to believe contains a driver or passenger suspected of having committed a serious crime, especially of a nature that would lead the police to believe the suspects may be armed (such as an armed robbery, assault with a weapon, or an outstanding felony warrant for the registered owner). In a high risk stop, officers attempt to provide their own safety by issuing instructions to maintain absolute control over every step of the proceedings.
 
 They will have additional officers on scene for back-up, often waiting for additional officers to join up before initiating the stop. They will typically have their weapons drawn, and stay back from the suspect's vehicle, using their patrol cars for cover. If there is no choice but to make the stop on a busy street, then they will often stop traffic. They will address the driver and any passengers over the PA speaker of the patrol car, typically instructing the driver to turn the engine off, remove the keys from the ignition, and sometimes toss them out the window. They will instruct the occupants, one at a time, to exit the vehicle with empty hands showing, place their hands on top of or behind their heads, walk backwards some distance, and then lie flat on the ground, where they will remain until all occupants have done likewise, at which point officers will move up, apply handcuffs, do a body search and then secure the suspects in the patrol cars.
 
+[b]Officer Procedure[/b]
+Once the person that the felony stop is being performed on has pulled over, you have to call for additional units to assist you in it, so the felony stop ends with successfully detained suspects and with no casualties from either sides.
+
+An example of requesting backup to a felony stop using the radio: 
+[code][Unit], Code Six Charles on a [Color] [Vehicle], [registration plate], occupied times [number] at [Location].[/code]
+If the driver doesn't comply and decides to evade, you have the right to call out a pursuit for Vehicular Evasion to arrest the person.
+
+If the driver complies, the initiating officer shall order the suspect to cut the engine if they haven't already. Once it is done, the initiating officer shall order the suspect to take the keys out of the ignition and throw them out of the window. When the keys are out, the driver to steps out with hands in the air while facing the other side. It is mandatory that officer instruct the suspect to face the other side as they could pull a gun and shoot at the officers if they are facing towards the police vehicles. After that, tell the driver to get on their knees and get on the ground.
+Stay in your formation and tell the front-right passenger to step outside with the same verbal commands. Then if any other passengers are in the vehicle, tell them to step out (not all at once but one by one by mentioning their seat location).
+After all of them are on the ground, the incident commander shall appoint teams of at least two officers, but preferably three. The first team shall approach and search the car for additional hazards. When the vehicle is cleared, the first person of the vehicle's team shall announce the "vehicle is clear". The second team shall approach the driver and restrain him with cuffs. After that, high-risk prone search shall be initiated. In case there are multiple passengers in the vehicle, other teams shall detain them. In case there are no sufficient units on scene, at least one officer shall remain at the police vehicles and oversee the rest of the suspects. 
+After doing that, all units will have to clear out at once ((DO NOT LEAVE A MAN BEHIND)), then book them in.
+
+The vehicle formation in a felony stop usually works like this, all units should be in the same formation which is usually done like this:
+[b][color=#00BF00]RIGHT[/color][/b]
+[spoiler][img]https://cdn.discordapp.com/attachments/801833987722969181/1059177446705991700/samp_01_01_2023_19_29_21.png[/img]
+[img]https://cdn.discordapp.com/attachments/801833987722969181/1059177446030704751/samp_01_01_2023_19_29_10.png[/img][/spoiler]
+
+[b][color=#FF0000]WRONG[/color][/b]
+[spoiler]https://cdn.discordapp.com/attachments/801833987722969181/1059177446408200283/samp_01_01_2023_19_30_14.png[/spoiler]
+
 [divbox=black][size=150][centre][color=#FFFFFF]OFFICER GUIDELINES[/color][/centre][/size][/divbox]
 [divbox=black][size=150][centre][color=#FFFFFF]CASELAWS[/color][/centre][/size][/divbox]
-[list]Fourth Amendment
+[list][b]Fourth Amendment[/b]
 The Constitution, through the Fourth Amendment, protects people from unreasonable searches and seizures by the government.  The Fourth Amendment, however, is not a guarantee against all searches and seizures, but only those that are deemed unreasonable under the law.
-[*]Reasonable Suspicion
+[*][b]Reasonable Suspicion[/b]
 Reasonable suspicion is an objectively justifiable suspicion that is based on specific facts or circumstances and that justifies stopping and sometimes searching (as by frisking) a person thought to be involved in criminal activity at the time. 
 For example, if a driver is driving erratically, swerving between lanes, and failing to stop for traffic signals, a police officer may have reasonable suspicion that the driver is drunk. The officer may pull the driver over, but the officer may not arrest the driver unless there is further evidence of drunk driving to establish probable cause for the arrest. If after being pulled over a driver fails a sobriety test, that may provide probable cause for an officer to make a drunk driving arrest.
-[*]Probable Cause
+[*][b]Probable Cause[/b]
 Probable cause is a requirement found in the Fourth Amendment that must usually be met before police make an arrest, conduct a search, or receive a warrant. Courts usually find probable cause when there is a reasonable basis for believing that a crime may have been committed (for an arrest) or when evidence of the crime is present in the place to be searched (for a search). Under exigent circumstances, probable cause can also justify a warrantless search or seizure. Persons arrested without a warrant are required to be brought before a competent authority shortly after the arrest for a prompt judicial determination of probable cause.
-[*]Terry v. Ohio 392 U.S. 1
+[*][b]Terry v. Ohio 392 U.S. 1[/b]
 Terry v. Ohio establishes that police have the right to reasonably search individuals for their own safety.
-[*]Mapp v. Ohio 367 US. 643
+[*][b]Mapp v. Ohio 367 US. 643[/b]
 Mapp v. Ohio was a landmark decision of the U.S. Supreme Court in which the Court ruled that the exclusionary rule, which prevents prosecutors from using evidence in court that was obtained by violating the Fourth Amendment to the U.S. Constitution,
-[*]Tennessee v. Garner 471 U.S. 1
+[*][b]Tennessee v. Garner 471 U.S. 1[/b]
 Tennessee v. Garner establishes that police have the right to use deadly force upon an individual who, when fleeing, is reasonably believed will cause further harm to others in the process.
-[*]Miranda v. Arizona 384 U.S. 436
+[*][b]Miranda v. Arizona 384 U.S. 436[/b]
 Miranda v. Arizona establishes that law enforcement officials must inform a suspect of their Fifth Amendment privilege against self-incrimination before any incriminating questioning.
 Upon questioning, an officer must read the following phrase, also known as Miranda Rights.
 [/list]

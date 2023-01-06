@@ -45,7 +45,7 @@ The Chief of Police (COP) is the highest-ranking officer in the Police Departmen
 
 [b][u]020. RANK AND PAYGRADE. [/u][/b]
 The order of rank and paygrade in the Department is as follows:
-[list][b]Staff Officers[/b]
+[list=none][b]Staff Officers[/b]
 [*]Chief of Police (COP).
 [*]Deputy Chief II (Asst Chief).
 [*]Deputy Chief I (Dep Chf).
@@ -120,8 +120,7 @@ The Department organization is established as set forth in the following section
 
 [b]Office of Chief of Police[/b]
 [list]Professional Standards Bureau
-[list]Internal Affairs Division[/list]
-[*]Public Relations Division[/list]
+[list]Internal Affairs Division[/list][/list]
 
 [b]Office of Operations[/b]
 [list]Central Bureau
@@ -132,16 +131,16 @@ The Department organization is established as set forth in the following section
 
 [b]Office of Support Services[/b]
 [list]Training Bureau
-[list]Training Division
-[*]Recruitment And Employment Division[/list][/list]
+[list]Recruitment and Training Division
+[*]Firearms Licensing Division[/list][/list]
 
 [b]Office of Special Operations[/b]
 [list]Counter Terrorism and Special Operations Bureau
 [list]Metropolitan Division
 [*]Air Support Division[/list]
 [*]Detective Bureau
-[list][*]Detective Services Group
-[*]Gang Enforcement Detail
+[list][*]Major Crimes Division
+[*]Gang Enforcement Division
 [/list][/list]
 
 

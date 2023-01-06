@@ -21,31 +21,7 @@ intent. Such assumption of command shall be undertaken whenever the situation ap
 Within the department, there are two types of promotions distinguished:
 [list][b]Promotion[/b] - When the employee's rank changes. (e.g.: Police Officer III+1 to Sergeant I, Sergeant II to Lieutenant I, Police Officer III to Detective I etc.)
 [*][b]Upgrade[/b] - When the employee's paygrade changes. (e.g.: Police Officer I to Police Officer II, Captain I to Captain II etc.)[/list]
-[list=decimal]Police Officer I --> Police Officer II
-Successful completion of Field Training Program
-[*]Police Officer II --> Police Officer III
-At least one month of continuous service within the department.
-Showing interest in Field Training Officer assignment.
-[*]Police Officer III --> Police Officer III+1
-At least one month of continuous service on Police Officer III paygrade.
-Being assigned in a supervisory role in a selected Division. (e.g.: Assistant Gang Supervisor, Assistant Traffic Supervisor, Metropolitan Team Leader, Assistant Firearms Licensing Supervisor etc.) 
-[*]Detective I --> Detective II
-At least one month continuous service on Detective I paygrade.
-Succesful completion of Supervisor School.
-[*]Police Officer III+1 --> Sergeant I
-Succesful completion of Supervisor School.
-[*]Sergeant I --> Sergeant II
-At least one month continuous service as Sergeant I.
-Approval of Division Commanding Officer.
-[*]Detective II --> Detective III
-At least one month continuous service as a Detective II.
-Vacancy within the selected section.
-[*]Sergeant II/Detective III --> Lieutenant I
-At least one month continuous service as Sergeant II or Detective III.
-Approval from Division Commanding Officer.
-[*]Lieutenant I --> Lieutenant II
-At least one month continuous service as Lieutenant I.
-[/list]
+[b]Promotion Criterias will be announced later.[/b]
 
 [b][u]140. DISCIPLINARY ACTIONS[/u][/b]
 [list][b]Official Reprimand[/b]

@@ -400,7 +400,8 @@ Walk confidently, and at a steady pace. Make eye contact with people when walkin
 [list]Car Safety[/list]
 Park in well-lighted areas. Never head-ram a suspect while in a chase. Always remain on the correct lane of travel unless you're chasing a suspect and you're in the LEAD unit. When performing interceptions, always have YOUR SAFETY is your priority, and others, do it when you're absolutely sure it's safe to do so. Always wear your seatbelt to ensure safety in case of an accident. Slow down or even come to a stop in intersections to avoid a car accident even during a pursuit, to avoid a car crash or being hit by another vehicle, especially if you're NOT lead unit. When performing a traffic stop and you're alone, touch the trunk of the suspect's vehicle to leave a print mark in case things go south, and if they do, rush for cover.
 
-[divbox=black][size=150][centre][color=#FFFFFF]CASELAWS[/color][/centre][/size][/divbox]
+[divbox=black][size=150][centre][color=#FFFFFF]LAWS[/color][/centre][/size][/divbox]
+[B][U]410. LAWS AND CASELAWS[/U][/B]
 [list][b]Fourth Amendment[/b]
 The Constitution, through the Fourth Amendment, protects people from unreasonable searches and seizures by the government.  The Fourth Amendment, however, is not a guarantee against all searches and seizures, but only those that are deemed unreasonable under the law.
 [*][b]Reasonable Suspicion[/b]
